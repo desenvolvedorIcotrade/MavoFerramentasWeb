@@ -1,4 +1,3 @@
-## Welcome to GitHub Pages
+## Welcome 
 
-<a href="https://pt.bloggif.com/" title="Photo Editing"><img src="https://data.bloggif.com/distant/user/store/a/e/d/7/ab1a348014a9347de7f0e1bb2b0e7dea.gif" alt="Montagem criada Bloggif" width="281" height="281" /></a>
-
+<img border="0" data-original-height="200" data-original-width="135" src="https://4.bp.blogspot.com/-kw5eCkPxEyE/W1nf2wmk5gI/AAAAAAAAElw/akE4uMFfqDI-EjhGetfq4tHSscBRC-jagCLcBGAs/s1600/eu%2Bfoto.gif">
